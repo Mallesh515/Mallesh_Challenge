@@ -1,6 +1,3 @@
-
-For this project, please think about how you would architect a scalable and secure static web application in AWS or another IaaS provider.
-
 Create and deploy a running instance of a web server using a configuration management tool of your choice. The web server should serve one page with the following content.
 
 <html>
